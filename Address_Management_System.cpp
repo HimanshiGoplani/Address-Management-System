@@ -224,6 +224,7 @@ int main() {
             break;
 
         default:
+            cout << "Invalid Input! Choose between 0 to 5." << endl;
             continue;
         }
 
